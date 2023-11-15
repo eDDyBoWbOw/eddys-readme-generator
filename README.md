@@ -48,8 +48,8 @@ Keep your documentation up-to-date by rerunning the generator as your project ev
 
 Edward Caldwell
 
-## Tests
-N/A
+## Walk Through Video
+<a href='https://drive.google.com/file/d/14ZgqBFD3du564lo0KgHZERtV40Ko3tdS/view'>Eddys walk through for Readme Generator<a/>
 
 ## Contact
 If you have any questions, feel free to reach out to me at [caldwell_edward12@yahoo.com](mailto:caldwell_edward12@yahoo.com) or visit my [GitHub profile](https://github.com/eddybowbow).
