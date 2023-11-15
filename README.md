@@ -1,4 +1,5 @@
-# Eddys README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Eddys README Generator ![JavaScript](https://img.shields.io/badge/Javascript-yellow.svg) ![Node](https://img.shields.io/badge/Node,js-green.svg)
+
 
 ## Description
 This is a README generator it is a tool designed to automate the creation of documentation files for software projects. Its purpose is to simplify the process of generating a well-structured and informative README file by prompting the user for input and dynamically incorporating that information into a template.
@@ -9,9 +10,6 @@ This is a README generator it is a tool designed to automate the creation of doc
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. See the [LICENSE](LICENSE) file for details.
 
 ## Installation
 Step 1: npm i <br/> Step 2: Open terminal and run ```node index.js```
